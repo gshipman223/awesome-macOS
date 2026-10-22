@@ -166,6 +166,7 @@
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
+- [Switchback](https://getswitchback.io/) - Adds a typeable path bar, a sidebar folder tree, pausable copies and a Task Manager to the real Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
